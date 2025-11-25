@@ -108,7 +108,7 @@ Lucas connects to your bank and helps you understand your money, analyze spendin
 </div>
 
 <div align="center">
-  <img src="https://github.com/armas01/armas01/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/armas01/armas01/raw/output/snake.svg" alt="snake animation" />
 </div>
 
 ---
