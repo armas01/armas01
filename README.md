@@ -107,13 +107,9 @@ Lucas connects to your bank and helps you understand your money, analyze spendin
   />
 </div>
 
-<!--
-💡 If you set up the "contribution snake" GitHub Action later, you can uncomment this:
-
 <div align="center">
   <img src="https://github.com/armas01/armas01/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
--->
 
 ---
 
